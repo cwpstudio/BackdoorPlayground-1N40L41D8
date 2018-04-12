@@ -1,0 +1,56 @@
+/* Universal Style */
+* {
+
+}
+
+/* Body */
+body {
+  height: auto;
+  background-image: url("../images/pattern2.jpg");
+}
+
+#container {
+  margin: auto;
+  position: relative;
+
+}
+
+#paper {
+  position: static;
+  width: auto;
+  height: 1000px;
+  background-image: url("../images/paper.png");
+  background-repeat: no-repeat;
+  font-weight: bold;
+  margin-left: 13%;
+  margin-top: 0.5%;
+}
+
+#content {
+  position: static;
+  padding: 12% 18%;
+  width: 50%;
+  font-size: 60px;
+  font-family: "Brush Script MT", "Zaph Chancery";
+  color: black;
+}
+
+#content .paragraph {
+  padding-top: 5%;
+}
+
+#content p {
+  font-size: 40px;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
