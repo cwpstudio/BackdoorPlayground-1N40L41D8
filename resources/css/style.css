@@ -23,7 +23,7 @@ body {
   width: 800px;
   height: 500px;
   z-index: 0;
-  background-image: url("../images/envelope.lnk");
+  background-image: url("../images/envelope.png");
   background-size: cover;
 }
 
